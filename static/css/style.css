@@ -11,24 +11,26 @@ h1 {
 }
 h2 {
     text-align: center;
-    font: 19px
+    font-size: 19px
 }
 h3 {
-    font: 17px Arial, sans-serif;
-    position: absolute;
+    font-family: Arial, sans-serif; /* Add font-family */
+    font-size: 17px;
     left: 75px;
     right: 1075px; 
     top: 820px;
 }
 h4 {
-    font: 17px Arial, sans-serif;
+    font-family: Arial, sans-serif; /* Add font-family */
+    font-size: 17px;
     position: absolute;
     left: 550px;
     right: 590px;
     top: 820px;
 }
 h5 {
-    font: 17px Arial, sans-serif;
+    font-family: Arial, sans-serif; /* Add font-family */
+    font-size: 17px;
     position: absolute;
     left: 980px;
     right: 100px;
